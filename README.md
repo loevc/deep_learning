@@ -72,6 +72,11 @@ $ sudo apt-get remove nvidia-*
 cd path that saving the nvidia drivers
 
 
+安装pycocotools
+```
+pip install cython; pip install -U 'git+https://github.com/cocodataset/cocoapi.git#subdirectory=PythonAPI'
+```
+
 
 
  
