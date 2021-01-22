@@ -32,10 +32,10 @@ switch method
 此时  切换版本只需要更新软链接即可
 切换至10.0
 rm -rf /usr/local/cuda 
-ln -s /usr/local/cuda-10.0/ /usr/local/cuda
+ln -s /usr/local/cuda-10.0 /usr/local/cuda
 切换至10.1
 rm -rf /usr/local/cuda 
-ln -s /usr/local/cuda-10.1/ /usr/local/cuda
+ln -s /usr/local/cuda-10.1 /usr/local/cuda
 
 
 
