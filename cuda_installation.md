@@ -15,12 +15,12 @@ https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html
 
 建议使用.run文件安装
 
-accept
+> accept
 if 之前安装了更高版本的驱动  -> 则此次不安装驱动
 toolkit -> yes
-location => default
-update symplic -> no
-install samples -> yes
+  location => default
+  update symplic -> no
+  install samples -> yes
 
 安装完成后在/usr/local/下可以看见
 cuda-10.0
